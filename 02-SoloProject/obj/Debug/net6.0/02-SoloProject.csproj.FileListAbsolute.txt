@@ -1,0 +1,15 @@
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.csproj.AssemblyReference.cache
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.AssemblyInfoInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.AssemblyInfo.cs
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.csproj.CoreCompileInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\bin\Debug\net6.0\02-SoloProject.exe
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\bin\Debug\net6.0\02-SoloProject.deps.json
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\bin\Debug\net6.0\02-SoloProject.runtimeconfig.json
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\bin\Debug\net6.0\02-SoloProject.dll
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\bin\Debug\net6.0\02-SoloProject.pdb
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.dll
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\refint\02-SoloProject.dll
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.pdb
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\02-SoloProject.genruntimeconfig.cache
+C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\02-SoloProject\obj\Debug\net6.0\ref\02-SoloProject.dll
