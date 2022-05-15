@@ -1,0 +1,5 @@
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.csproj.AssemblyReference.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.AssemblyInfoInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.AssemblyInfo.cs
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.csproj.CoreCompileInputs.cache
