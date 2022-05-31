@@ -3,3 +3,13 @@ C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\ne
 C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.AssemblyInfoInputs.cache
 C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.AssemblyInfo.cs
 C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.csproj.CoreCompileInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\bin\Debug\net6.0\02-Hilo Game.exe
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\bin\Debug\net6.0\02-Hilo Game.deps.json
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\bin\Debug\net6.0\02-Hilo Game.runtimeconfig.json
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\bin\Debug\net6.0\02-Hilo Game.dll
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\bin\Debug\net6.0\02-Hilo Game.pdb
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.dll
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\refint\02-Hilo Game.dll
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.pdb
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\02-Hilo Game.genruntimeconfig.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\02-Hilo Game\obj\Debug\net6.0\ref\02-Hilo Game.dll
