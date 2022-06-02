@@ -2,4 +2,4 @@
 // Console.WriteLine("Hello, World!");
 
 Player player = new Player();
-player.BeginGame();
+// player.BeginGame();
