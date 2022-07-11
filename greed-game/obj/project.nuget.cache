@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYPwUVfO31wdXH+qySFaObMUYzYPhlpz2fmY0I9GTHZ/PZtgukz85tCSx4O85GjEHj4Uo16GE7dNTWXF6JuQZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\greed-game\\CSE210-RFK-game-.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediss\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\ediss\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

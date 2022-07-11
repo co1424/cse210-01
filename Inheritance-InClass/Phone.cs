@@ -1,37 +1,35 @@
-// See https://aka.ms/new-console-template for more information
-// Console.WriteLine("Hello, World!");
+public class Phone {
 
-public class Phone
-{
-    List<long> phoneNumber = new List<long>(); // What's the difference between an int and a long tho?
-    List<string> textMessage = new List<string>();
+    private string phoneNumber;
+    private List<string> textMessages = new List<string>();
+    public Phone(string phoneNumber) {
 
-    // Constructor:
-    public void getNumber();
-
-
-    public void placeCall(int number_to_call)
-    {
+        this.phoneNumber = phoneNumber;
 
     }
 
-    public void placeText(string number_to_text, string message_to_send)
-    {
+    public void placeCall(string numberToCall) {
+        Console.WriteLine($"Dialing {numberToCall}...");
     }
 
-    public void saveText(string message_to_save)
-    {
-
+    public void placeText(string numberToCall, string messageToSend) {
+        Console.WriteLine($"Texting {numberToCall} this message: '{messageToSend}'");
     }
 
-    public void getTexts()
-    {
-
+    public void saveText(string messageToSave) {
+        Console.WriteLine("Saving message...");
     }
 
-    public void getNumber()
-    {
-
+    public List<string> getTexts() {
+        foreach(string text in textMessages) {
+            Console.WriteLine(text);
+        }
+        return textMessages;
     }
 
+    public string getNumber() {
+        Console.WriteLine(phoneNumber) ;
+        return phoneNumber;
+        
+    }
 }

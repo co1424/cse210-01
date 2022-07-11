@@ -21,7 +21,7 @@ int guess = -1;
 while (guess != magicNumber)
 {
     Console.Write("What is your guess? ");
-    guess = int.Parse(Console.ReadLine);
+    guess = int.Parse(Console.ReadLine());
     if (magicNumber > guess)
     {
         Console.WriteLine("Go higher");

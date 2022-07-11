@@ -3,3 +3,8 @@ C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\03
 C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\03-SoloProject\obj\Debug\net6.0\03-SoloProject.AssemblyInfoInputs.cache
 C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\03-SoloProject\obj\Debug\net6.0\03-SoloProject.AssemblyInfo.cs
 C:\Users\ediss\OneDrive\Software Engineering\CSE 210-Programming with Classes\03-SoloProject\obj\Debug\net6.0\03-SoloProject.csproj.CoreCompileInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\03-SoloProject\obj\Debug\net6.0\03-SoloProject.csproj.AssemblyReference.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\03-SoloProject\obj\Debug\net6.0\03-SoloProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\03-SoloProject\obj\Debug\net6.0\03-SoloProject.AssemblyInfoInputs.cache
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\03-SoloProject\obj\Debug\net6.0\03-SoloProject.AssemblyInfo.cs
+C:\Users\ediss\OneDrive\Software Engineering\cse210-01\03-SoloProject\obj\Debug\net6.0\03-SoloProject.csproj.CoreCompileInputs.cache

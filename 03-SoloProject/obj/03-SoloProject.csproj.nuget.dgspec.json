@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ediss\\OneDrive\\Software Engineering\\CSE 210-Programming with Classes\\03-SoloProject\\03-SoloProject.csproj": {}
+    "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\03-SoloProject\\03-SoloProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ediss\\OneDrive\\Software Engineering\\CSE 210-Programming with Classes\\03-SoloProject\\03-SoloProject.csproj": {
+    "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\03-SoloProject\\03-SoloProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\CSE 210-Programming with Classes\\03-SoloProject\\03-SoloProject.csproj",
+        "projectUniqueName": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\03-SoloProject\\03-SoloProject.csproj",
         "projectName": "03-SoloProject",
-        "projectPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\CSE 210-Programming with Classes\\03-SoloProject\\03-SoloProject.csproj",
+        "projectPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\03-SoloProject\\03-SoloProject.csproj",
         "packagesPath": "C:\\Users\\ediss\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\CSE 210-Programming with Classes\\03-SoloProject\\obj\\",
+        "outputPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\03-SoloProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ediss\\AppData\\Roaming\\NuGet\\NuGet.Config"

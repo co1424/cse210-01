@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/kevincastro/.nuget/packages/": {}
+    "C:\\Users\\ediss\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/jumper/jumper.csproj",
+      "projectUniqueName": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\Jumper Game\\jumper.csproj",
       "projectName": "jumper",
-      "projectPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/jumper/jumper.csproj",
-      "packagesPath": "/Users/kevincastro/.nuget/packages/",
-      "outputPath": "/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/jumper/obj/",
+      "projectPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\Jumper Game\\jumper.csproj",
+      "packagesPath": "C:\\Users\\ediss\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\Jumper Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kevincastro/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ediss\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
