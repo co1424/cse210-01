@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxar3sD2SmrCeS5A1NKMn6n868SB/nI/fIo2zXlQVJAt0Cm7N3rVSquLawZ7QrkXRLa3o+u31h1ujEuI1Okw0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\snake-game-main\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediss\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\ediss\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BRjujGSF8qNU5x39OruPTtLIiwqn7d10Ue/0T7xnSC0kg9+KpbfIn1sY/uR5WXa4jbUF6BOTtT4VKIBji9LVpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ediss\\OneDrive\\Software Engineering\\cse210-01\\Cycle-Game\\Unit05.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediss\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\ediss\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
